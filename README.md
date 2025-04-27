@@ -61,12 +61,12 @@ Since **packet loss** refers to the failure of network data to reach its destina
 
 **Action:** Conduct root-cause analysis of December outages and prioritize Central hubs for proactive stability upgrades.
 
-## Disconnection Pattern in Central Areas
+## Disconnection Pattern in Southern Areas
 
 
 ![Screenshot (632)](https://github.com/user-attachments/assets/3f6c905f-20ef-4d1c-af98-9ec59d6e86f3)
 
-## Disconnection Pattern in Southern Areas
+## Disconnection Pattern in Central Areas
 
 ![Screenshot (631)](https://github.com/user-attachments/assets/332afa25-df21-46d8-9934-050c28a7e852)
 
@@ -94,12 +94,17 @@ Since **packet loss** refers to the failure of network data to reach its destina
 
 **Action:** Optimize midday bandwidth allocation and promote All-Rounder as the premium experience.
 
+## Average download speed of VM Surf & Stream Tier in Southern Areas
 
 ![Screenshot (636)](https://github.com/user-attachments/assets/e21ca276-ca43-4285-8331-4a620cfa10f6)
 
 
+## Average download speed of VM Expert Gamer Tier in Southern Areas
+
 ![Screenshot (635)](https://github.com/user-attachments/assets/73c94374-04ed-4f40-9ea1-7156392edad4)
 
+
+## Average download speed of VM All-Rounder Tier in Southern Areas
 
 ![Screenshot (634)](https://github.com/user-attachments/assets/24e8b61c-0612-4dac-81e2-2f791b7b6525)
 
