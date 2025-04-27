@@ -1,103 +1,89 @@
-Virgin Media Broadband Quality Analysis 🚀
+# Virgin Media Broadband Quality Analysis 🚀
 
+## Overview 
+This project analyzes the quality of Virgin Media’s broadband service by investigating real-world KPI measurements including **packet loss**, **disconnection rates**, **latency trends**, and **download speeds** across different broadband packages, hub types, and regions (Central vs Southern).
 
-Overview 📊
-This project analyzes the quality of Virgin Media’s broadband service by investigating real-world KPI measurements including packet loss, disconnection rates, latency trends, and download speeds across different broadband packages, hub types, and regions (Central vs Southern).
+The project builds upon the dataset provided during the **Virgin Media Hackathon**, where my team and I were proud winners 🏆. I attended the hackathon to develop deeper insights, propose targeted network improvements, and build predictive tools for future broadband optimization.
 
-The project builds upon the dataset provided during the Virgin Media Hackathon, where my team and I were proud winners 🏆.
-I extended the analysis to create deeper insights, propose targeted network improvements, and build predictive tools for future broadband optimization.
+---
 
-Tools and Technologies 🛠️
-Power BI — Data visualization and KPI tracking
+## Tools and Technologies 
+- **Power BI** — Data visualization and KPI tracking
+- **Python (Streamlit)** — Interactive web app development
+- **Hugging Face Spaces** — Model deployment and remote access
+- **Pandas, Plotly** — Data cleaning and advanced visualizations
+- **Git, GitHub** — Version control and project hosting
 
-Python (Streamlit) — Interactive web app development
+---
 
-Hugging Face Spaces — Model deployment and remote access
+## Key Business Issues Investigated 🔎
+- High packet loss incidents affecting certain users
+- Disconnection patterns across different locations
+- Latency fluctuations across weekdays
+- Download speed performance across broadband tiers
+- Regional quality differences (Central vs Southern)
+- Hub device and broadband package performance gaps
 
-Pandas, Plotly — Data cleaning and advanced visualizations
+---
 
-Git, GitHub — Version control and project hosting
+## Key Findings 📊
 
-Key Business Issues Investigated 🔍
-High packet loss incidents affecting certain users
+### 1. Packet Loss Trends 
+- Overall packet loss remained low (~0.04%–0.05%).
+- Hub C devices had slightly elevated packet loss, especially in Expert Gamer and Surf&Stream tiers.
 
-Disconnection patterns across different locations
+**Action:** Investigate Hub C device performance and optimize midweek traffic routing.
 
-Latency fluctuations across weekdays
+---
 
-Download speed performance across broadband tiers
+### 2. Disconnection Patterns 
+- Disconnection spikes were observed in the Central region, especially around December 13–14.
+- Central region had significantly higher disconnection counts than the Southern region.
 
-Regional quality differences (Central vs Southern)
+**Action:** Conduct root-cause analysis of December outages and prioritize Central hubs for proactive stability upgrades.
 
-Hub device and broadband package performance gaps
+---
 
-Key Findings 📈
-1. Packet Loss Trends
-Overall packet loss remained low (~0.04%–0.05%).
+### 3. Latency Insights 
+- Average latency remained consistently low (~13 ms).
+- Minor midweek latency peaks observed (non-critical).
 
-Hub C devices had slightly elevated packet loss, especially in Expert Gamer and Surf&Stream tiers.
+**Action:** Implement midweek load balancing strategies to sustain low latency during peak working days.
 
-👉 Action: Investigate Hub C device performance and optimize midweek traffic routing.
+---
 
-2. Disconnection Patterns
-Disconnection spikes identified around December 13–14 mainly in Central regions.
+### 4. Download Speed Performance 
+- The **VM All-Rounder Tier** delivered the highest download speeds (~1200 Mbps).
+- **Expert Gamer** and **Surf&Stream** tiers showed lower speeds (~600 Mbps and ~470 Mbps respectively).
+- Midday speed dips were minor but notable.
 
-Central hubs reported significantly higher disconnection counts than Southern.
+**Action:** Optimize midday bandwidth allocation and promote All-Rounder as the premium experience.
 
-👉 Action: Root-cause analysis and predictive maintenance recommended.
+---
 
-3. Latency Insights
-Average latency was consistently low (~13ms).
+### 5. Hub Type and Broadband Package Comparison 
+- Hub A and Hub B outperformed Hub C in both packet loss and download speeds.
+- All-Rounder package users had the most consistent quality across all hubs.
 
-Slight increases observed midweek (Wednesday/Thursday).
+**Action:** Initiate hub replacement programs focusing first on Hub C users.
 
-👉 Action: Midweek traffic balancing strategies to sustain performance.
+---
 
-4. Download Speed Performance
-All-Rounder Tier offered the highest average download speeds (~1200 Mbps).
+### 6. Regional Differences 
+- Central region: higher disconnection counts but better average speeds.
+- Southern region: lower disconnection counts but slightly lower speeds.
 
-Expert Gamer and Surf&Stream Tiers reported lower speeds (~600 Mbps and ~470 Mbps).
+**Action:** Stability upgrades for Central hubs and bandwidth enhancements for Southern region.
 
-👉 Action: Promote All-Rounder for premium users; optimize mid-day performance dips.
+---
 
-5. Hub Type and Package Performance
-Hub A and Hub B outperformed Hub C across all tiers.
+## Project Deployment 🌐
+- **Power BI Dashboard:** KPI visualizations across latency, disconnection, packet loss, and download speed metrics.
+- **Hugging Face Spaces:** Web-based deployment for remote app access and demonstration. https://huggingface.co/spaces/EOEOkunfolami/virgin-media-disconnect-predictor
 
-Hub C associated with slightly higher packet loss and slower speeds.
+---
 
-👉 Action: Upgrade or replace underperforming Hub C devices.
+## Conclusion 
+This project demonstrates how continuous, data-driven monitoring through interactive dashboards and predictive analytics can reveal critical broadband service gaps. Broadband providers like Virgin Media can leverage these insights for predictive maintenance, service tier optimization, and improved user experience.
 
-Solution Summary ✅
-
-Issue	Proposed Solution
-Packet Loss	Hardware optimization and midweek traffic balancing
-Disconnections	Predictive maintenance and regional upgrades
-Latency	Load balancing on peak weekdays
-Download Speed Drops	Improve Surf&Stream tiers and midday load distribution
-Regional Gaps	Central region stability focus; Southern region speed improvements
-Project Deployment 🚀
-Power BI Dashboard:
-Visualizes KPI metrics across locations, hubs, and packages.
-
-Streamlit App:
-Allows users to interactively explore network quality indicators.
-
-Hugging Face App:
-Provides a remote-access platform for disconnection risk prediction based on real-time network conditions.
-
-📂 Explore the Project
-🔗 Streamlit App
-
-🔗 Hugging Face Spaces App
-
-🔗 Power BI Dashboard Screenshots
-
-📸 Key Visualizations
-
-Insight	Screenshot
-Overall KPI Summary	
-Packet Loss Trends (Hub C)	
-Disconnection Patterns	
-Latency Trends by Weekday	
-Download Speed by Package	
-Regional Differences
+---
