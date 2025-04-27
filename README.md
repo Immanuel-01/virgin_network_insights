@@ -38,7 +38,7 @@ The project builds upon the dataset provided during the **Virgin Media Hackathon
 Research shows that broadband networks experience the highest stress on **Wednesdays, Fridays, and Saturdays** due to increased online traffic.  
 Since **packet loss** refers to the failure of network data to reach its destination (often caused by congestion or overload), investigating these peak days provides meaningful insights into when and where the network may become slightly less reliable.
 
-## Wednesday
+## Saturday
 
 ![Screenshot (630)](https://github.com/user-attachments/assets/01e08472-eeba-4760-86eb-3779944571df)
 
@@ -48,7 +48,7 @@ Since **packet loss** refers to the failure of network data to reach its destina
 ![Screenshot (629)](https://github.com/user-attachments/assets/a9529d6d-9391-4946-b7db-71384702357b)
 
 
-## Saturday
+## Wednesday
 
 ![Screenshot (628)](https://github.com/user-attachments/assets/d58ddd7c-b573-47ca-82d4-70594b848406)
 
