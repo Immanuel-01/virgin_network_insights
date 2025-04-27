@@ -60,8 +60,16 @@ Since **packet loss** refers to the failure of network data to reach its destina
 - Central region had significantly higher disconnection counts than the Southern region.
 
 **Action:** Conduct root-cause analysis of December outages and prioritize Central hubs for proactive stability upgrades.
+
+## Disconnection Pattern in Central Areas
+
+
 ![Screenshot (632)](https://github.com/user-attachments/assets/3f6c905f-20ef-4d1c-af98-9ec59d6e86f3)
+
+## Disconnection Pattern in Southern Areas
+
 ![Screenshot (631)](https://github.com/user-attachments/assets/332afa25-df21-46d8-9934-050c28a7e852)
+
 
 ---
 
@@ -70,6 +78,8 @@ Since **packet loss** refers to the failure of network data to reach its destina
 - Minor midweek latency peaks observed (non-critical).
 
 **Action:** Implement midweek load balancing strategies to sustain low latency during peak working days.
+
+## Average Latency in a week
 
 
 ![Screenshot (633)](https://github.com/user-attachments/assets/60aa30c4-1bac-4f6b-b544-7999fa8d8757)
