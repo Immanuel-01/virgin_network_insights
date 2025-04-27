@@ -68,7 +68,7 @@ print(importance_df)
 import joblib
 
 # Create models directory if not exists
-os.makedirs('../models', exist_ok=True)
+os.makedirs('../notebooks/models', exist_ok=True)
 
 model_save_path = os.path.join('..', 'models', 'disconnect_risk_model.pkl')
 joblib.dump(model, model_save_path)
