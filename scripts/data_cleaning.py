@@ -25,6 +25,10 @@ def load_and_clean_data():
     network_df['day'] = network_df['timestamp'].dt.day
     network_df['month'] = network_df['timestamp'].dt.month
 
+    # Clean split of timestamp into separate columns
+    network_df['date'] = pd.to_datetime(network_df['timestamp']).dt.strftime('%Y-%m-%d')
+    network_df['time'] = pd.to_datetime(network_df['timestamp']).dt.strftime('%H:%M:%S')
+
     # Save cleaned dataset
     OUTPUT_CSV_PATH.parent.mkdir(parents=True, exist_ok=True)
     network_df.to_csv(OUTPUT_CSV_PATH, index=False)
