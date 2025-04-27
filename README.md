@@ -71,6 +71,7 @@ Since **packet loss** refers to the failure of network data to reach its destina
 
 **Action:** Implement midweek load balancing strategies to sustain low latency during peak working days.
 
+
 ![Screenshot (633)](https://github.com/user-attachments/assets/60aa30c4-1bac-4f6b-b544-7999fa8d8757)
 
 
@@ -82,8 +83,14 @@ Since **packet loss** refers to the failure of network data to reach its destina
 - Midday speed dips were minor but notable.
 
 **Action:** Optimize midday bandwidth allocation and promote All-Rounder as the premium experience.
+
+
 ![Screenshot (636)](https://github.com/user-attachments/assets/e21ca276-ca43-4285-8331-4a620cfa10f6)
+
+
 ![Screenshot (635)](https://github.com/user-attachments/assets/73c94374-04ed-4f40-9ea1-7156392edad4)
+
+
 ![Screenshot (634)](https://github.com/user-attachments/assets/24e8b61c-0612-4dac-81e2-2f791b7b6525)
 
 ---
@@ -104,6 +111,8 @@ Since **packet loss** refers to the failure of network data to reach its destina
 
 
 ![Screenshot (641)](https://github.com/user-attachments/assets/1d872594-7588-438d-80a2-79637539106f)
+
+
 ![Screenshot (640)](https://github.com/user-attachments/assets/21c83b54-2381-4345-bcd0-72df7c3cf532)
 
 ---
