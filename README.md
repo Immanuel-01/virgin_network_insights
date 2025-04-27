@@ -34,6 +34,11 @@ The project builds upon the dataset provided during the **Virgin Media Hackathon
 
 **Action:** Investigate Hub C device performance and optimize midweek traffic routing.
 
+![Screenshot (630)](https://github.com/user-attachments/assets/01e08472-eeba-4760-86eb-3779944571df)
+![Screenshot (629)](https://github.com/user-attachments/assets/a9529d6d-9391-4946-b7db-71384702357b)
+![Screenshot (628)](https://github.com/user-attachments/assets/d58ddd7c-b573-47ca-82d4-70594b848406)
+
+
 ---
 
 ### 2. Disconnection Patterns 
@@ -41,6 +46,8 @@ The project builds upon the dataset provided during the **Virgin Media Hackathon
 - Central region had significantly higher disconnection counts than the Southern region.
 
 **Action:** Conduct root-cause analysis of December outages and prioritize Central hubs for proactive stability upgrades.
+![Screenshot (632)](https://github.com/user-attachments/assets/3f6c905f-20ef-4d1c-af98-9ec59d6e86f3)
+![Screenshot (631)](https://github.com/user-attachments/assets/332afa25-df21-46d8-9934-050c28a7e852)
 
 ---
 
@@ -50,6 +57,9 @@ The project builds upon the dataset provided during the **Virgin Media Hackathon
 
 **Action:** Implement midweek load balancing strategies to sustain low latency during peak working days.
 
+![Screenshot (633)](https://github.com/user-attachments/assets/60aa30c4-1bac-4f6b-b544-7999fa8d8757)
+
+
 ---
 
 ### 4. Download Speed Performance 
@@ -58,6 +68,9 @@ The project builds upon the dataset provided during the **Virgin Media Hackathon
 - Midday speed dips were minor but notable.
 
 **Action:** Optimize midday bandwidth allocation and promote All-Rounder as the premium experience.
+![Screenshot (636)](https://github.com/user-attachments/assets/e21ca276-ca43-4285-8331-4a620cfa10f6)
+![Screenshot (635)](https://github.com/user-attachments/assets/73c94374-04ed-4f40-9ea1-7156392edad4)
+![Screenshot (634)](https://github.com/user-attachments/assets/24e8b61c-0612-4dac-81e2-2f791b7b6525)
 
 ---
 
@@ -74,6 +87,10 @@ The project builds upon the dataset provided during the **Virgin Media Hackathon
 - Southern region: lower disconnection counts but slightly lower speeds.
 
 **Action:** Stability upgrades for Central hubs and bandwidth enhancements for Southern region.
+
+
+![Screenshot (641)](https://github.com/user-attachments/assets/1d872594-7588-438d-80a2-79637539106f)
+![Screenshot (640)](https://github.com/user-attachments/assets/21c83b54-2381-4345-bcd0-72df7c3cf532)
 
 ---
 
