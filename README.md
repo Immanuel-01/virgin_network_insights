@@ -125,12 +125,12 @@ Since **packet loss** refers to the failure of network data to reach its destina
 **Action:** Stability upgrades for Central hubs and bandwidth enhancements for Southern region.
 
 
-## Higher disconnection counts but better average speeds noticed in Central region.
+## Higher disconnection counts but better average speeds noticed in Southern region.
 
 ![Screenshot (641)](https://github.com/user-attachments/assets/1d872594-7588-438d-80a2-79637539106f)
 
 
-## Lower disconnection counts but slightly lower speeds noticed in Southern region.
+## Lower disconnection counts but slightly lower speeds noticed in Central region.
 
 ![Screenshot (640)](https://github.com/user-attachments/assets/21c83b54-2381-4345-bcd0-72df7c3cf532)
 
